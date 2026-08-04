@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# demo output (demo_convergence.png is committed on purpose, for the README)
+*.png
+!demo_convergence.png
+
+.DS_Store
