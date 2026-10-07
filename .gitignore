@@ -7,5 +7,6 @@ venv/
 # demo output (demo_convergence.png is committed on purpose, for the README)
 *.png
 !demo_convergence.png
+!docs/results/figures/*.png
 
 .DS_Store
